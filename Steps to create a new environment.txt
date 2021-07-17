@@ -1,0 +1,5 @@
+Steps to create a new environment:
+1. Run this command in Anaconda Prompt: conda create -n <name> python=3.7
+2. After this we need to activate the enviroment: conda activate <name>
+3. Go to the working location and open Jupyter notebook from there using : jupyter notebook
+4. You can start working in this.
